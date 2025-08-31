@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("031e0e36-2727-4e09-aae8-2dcff2639678")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wpm.Management.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fcce0cd40e1895f86caf31fe7d411ed07e4f86e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wpm.Management.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wpm.Management.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -38,3 +38,8 @@ C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\
 C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\Wpm.Management.API.pdb
 C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\Wpm.Management.API.genruntimeconfig.cache
 C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\ref\Wpm.Management.API.dll
+C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\Wpm.Management.API.sourcelink.json
+C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Mohamed Ghassar\azure-microservices-with-dotnet\src\Wpm.Management.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
