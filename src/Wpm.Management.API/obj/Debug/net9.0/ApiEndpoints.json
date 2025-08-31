@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Wpm.Management.API.Controllers.PetsController",
+    "Method": "Get",
+    "RelativePath": "api/Pets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
