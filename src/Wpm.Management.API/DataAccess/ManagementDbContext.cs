@@ -21,7 +21,8 @@ namespace Wpm.Management.API.DataAccess
             modelBuilder.Entity<Pet>().HasData(
                 new Pet { Id = 1, Name = "Buddy", age = 3, breedId = 1 },
                 new Pet { Id = 2, Name = "Max", age = 5, breedId = 2 },
-                new Pet { Id = 3, Name = "Bella", age = 2, breedId = 3 }
+                new Pet { Id = 3, Name = "Bella", age = 2, breedId = 3 },
+                new Pet { Id = 4, Name = "Snoopy", age = 50, breedId = 1 }
             );
         }
     }
