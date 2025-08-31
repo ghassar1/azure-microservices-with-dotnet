@@ -10,6 +10,10 @@
       "RelativeMoniker": "D:0:0:{6C2AB08D-4F17-4E37-B4E9-CB0413BAFDE9}|Wpm.Management.API\\Wpm.Management.API.csproj|solutionrelative:wpm.management.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C2AB08D-4F17-4E37-B4E9-CB0413BAFDE9}|Wpm.Management.API\\Wpm.Management.API.csproj|c:\\users\\mohamed ghassar\\azure-microservices-with-dotnet\\src\\wpm.management.api\\wpm.management.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C2AB08D-4F17-4E37-B4E9-CB0413BAFDE9}|Wpm.Management.API\\Wpm.Management.API.csproj|solutionrelative:wpm.management.api\\wpm.management.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C2AB08D-4F17-4E37-B4E9-CB0413BAFDE9}|Wpm.Management.API\\Wpm.Management.API.csproj|c:\\users\\mohamed ghassar\\azure-microservices-with-dotnet\\src\\wpm.management.api\\dataaccess\\managementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C2AB08D-4F17-4E37-B4E9-CB0413BAFDE9}|Wpm.Management.API\\Wpm.Management.API.csproj|solutionrelative:wpm.management.api\\dataaccess\\managementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,8 +37,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wpm.Management.API",
+              "DocumentMoniker": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\Wpm.Management.API.csproj",
+              "RelativeDocumentMoniker": "Wpm.Management.API\\Wpm.Management.API.csproj",
+              "ToolTip": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\Wpm.Management.API.csproj",
+              "RelativeToolTip": "Wpm.Management.API\\Wpm.Management.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T19:09:44.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -56,18 +77,14 @@
               "RelativeDocumentMoniker": "..\\.github\\workflows\\main.yml",
               "ToolTip": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\.github\\workflows\\main.yml",
               "RelativeToolTip": "..\\.github\\workflows\\main.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-08-31T17:58:35.705Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BreedsController.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\Controllers\\BreedsController.cs",
               "RelativeDocumentMoniker": "Wpm.Management.API\\Controllers\\BreedsController.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\Program.cs",
               "RelativeDocumentMoniker": "Wpm.Management.API\\Program.cs",
@@ -91,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ManagementDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\DataAccess\\ManagementDbContext.cs",
               "RelativeDocumentMoniker": "Wpm.Management.API\\DataAccess\\ManagementDbContext.cs",
               "ToolTip": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\DataAccess\\ManagementDbContext.cs",
               "RelativeToolTip": "Wpm.Management.API\\DataAccess\\ManagementDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T17:23:15.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PetsController.cs",
               "DocumentMoniker": "C:\\Users\\Mohamed Ghassar\\azure-microservices-with-dotnet\\src\\Wpm.Management.API\\Controllers\\PetsController.cs",
               "RelativeDocumentMoniker": "Wpm.Management.API\\Controllers\\PetsController.cs",
